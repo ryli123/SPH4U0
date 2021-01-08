@@ -14,7 +14,7 @@ A lab for modelling the motion of a pendulum at small angles with damping coeffi
 An investigation into the characteristics of DC circuits with resistors, capacitors, diodes, and transistors. Includes a regression of the V-i curve (potential difference vs. current) of a circuit with a PN-junction diode. Results in [_Exploring DC Transients and Semiconductors_](https://github.com/ryli123/SPH4U0/blob/master/Lab%20Finals/3/Lab%203%20Final.pdf).
 
 ### Lab 4
-Experiments carried out for AC circuits, as well as transformers and solenoid magnetic fields. Made some cool observations on Lissajous figures of circuits with oscilloscopes. Also produced a magnetic field visualization for skew solenoids using MATLAB. Read about [_An Analysis of AC Currents and Electromagnetism_](https://github.com/ryli123/SPH4U0/blob/master/Lab%20Finals/4/Lab%204%20Final.pdf).
+Experiments carried out for AC circuits, as well as transformers and solenoid magnetic fields. Made some cool observations on Lissajous figures of circuits with oscilloscopes. Also produced a magnetic field visualization for skew solenoids using MATLAB and the Biot-Savart Law. Read about [_An Analysis of AC Currents and Electromagnetism_](https://github.com/ryli123/SPH4U0/blob/master/Lab%20Finals/4/Lab%204%20Final.pdf).
 
 ![Magnetic Field Model](https://github.com/ryli123/SPH4U0/blob/master/Lab%20Finals/4/ohyeah.png)
 
