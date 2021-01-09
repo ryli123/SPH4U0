@@ -93,8 +93,7 @@ simz = zeros(1, (simrange/simdensity)^3);
 % simz = coordinates(3,:);
 
 
-%h = waitbar(0,'my nibbers like golden state inbound pull up and shoot') %removed for being racist
-h = waitbar(0,'my nibbas like golden state inbound pull up and shoot')
+h = waitbar(0,'waiting')
 n=1;
 for i = 1:simrange/simdensity
     for j = 1:simrange/simdensity
@@ -146,7 +145,7 @@ simBz = simBz(1:quiverdensity:end);
 
 allB = [simBx; simBy; simBz];
 unitB = ones(size(allB));
-for i = 1:length(allB(1, :)) %copied off nick
+for i = 1:length(allB(1, :)) 
     unitB(:, i) = (allB(:, i)/norm(allB(:, i)))*quiverscale;
 end
 
