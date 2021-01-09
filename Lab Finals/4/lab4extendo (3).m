@@ -104,8 +104,7 @@ simy = coordinates(2,:);
 simz = coordinates(3,:);
 
 
-% %h = waitbar(0,'my nibbers like golden state inbound pull up and shoot') %removed for being racist
-% h = waitbar(0,'my nibbas like golden state inbound pull up and shoot')
+% h = waitbar(0,'waiting')
 % for i = 1:simrange/simdensity
 %     for j = 1:simrange/simdensity
 %         for k = 1:simrange/simdensity
