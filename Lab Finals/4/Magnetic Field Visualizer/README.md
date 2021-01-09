@@ -1,6 +1,6 @@
 # Magnetic Field Visualizer
 
-Using the Biot-Savart Law, this program draws two skew solenoids and calculates the magnetic vector field when electric currents are present.
+Using the Biot-Savart Law, this program draws two skew solenoids and calculates the magnetic vector field when electric currents are present. Changes to either solenoid will update in the .mlx files.
 
 This produces the following visualization in MATLAB:
 
