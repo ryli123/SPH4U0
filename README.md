@@ -16,7 +16,7 @@ An investigation into the characteristics of DC circuits with resistors, capacit
 ### Lab 4
 Experiments carried out for AC circuits, as well as transformers and solenoid magnetic fields. Made some cool observations on Lissajous figures of circuits with oscilloscopes. Also produced a magnetic field visualization for skew solenoids using MATLAB and the Biot-Savart Law. Read about [_An Analysis of AC Currents and Electromagnetism_](https://github.com/ryli123/SPH4U0/blob/master/Lab%20Finals/4/Lab%204%20Final.pdf).
 
-![Magnetic Field Model](https://github.com/ryli123/SPH4U0/blob/master/Lab%20Finals/4/ohyeah.png)
+![Magnetic Field Model](https://github.com/ryli123/SPH4U0/blob/master/Lab%20Finals/4/Magnetic%20Field%20Visualizer/ohyeah.png)
 
 ### Lab 5
 Did some work with diffraction patterns, luminance, and blackbody radiation. Tried to regress for Planck's constant with 8% error. Read about [_Quantum Mechanical Effects of LEDs and Lasers_](https://github.com/ryli123/SPH4U0/blob/master/Lab%20Finals/5/lab-5.pdf).
